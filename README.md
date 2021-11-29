@@ -1,9 +1,6 @@
-# PdaDrawing
-
 # LINEDRAWING THE MEMORY
-------------------------------------------------------------
 
-라인드로잉은 이미지를 손그림 변환하는 모바일 자동화 서비스입니다.서비스를 통해 사진을 입력하면 새로운 손그림을 출력할 수 있습니다. 또한 변환된 이미지를 앨범에 보관하고 친구들과 공유할 수 있습니다. <br>SNS Instagram처럼 나의 추억을 공유하세요!
+라인드로잉✏️은 이미지를 손그림 변환하는 모바일 자동화 서비스입니다.서비스를 통해 사진을 입력하면 새로운 손그림을 출력할 수 있습니다. 또한 변환된 이미지를 앨범에 보관하고 친구들과 공유할 수 있습니다. <br>SNS Instagram처럼 나의 추억을 공유하세요!
 
 
 - **이것은 서비스의 예시입니다**
@@ -30,4 +27,4 @@
 
 |🧞‍♂️박찬|🧜‍♂️문학준|🧚‍♀️이선영|🦋전승원|🌸천은정|
 |------|---|---|--|---|
-|@https://github.com/cksl0830|@https://github.com/MHJworld|@https://github.com/sunsunyoung2jjang|@승원|@은정|
+|[https://github.com/cksl0830]@cksl0830|[https://github.com/MHJworld](@MHJworld)|[https://github.com/sunsunyoung2jjang](@sunsunyoung)|@승원|@은정|
