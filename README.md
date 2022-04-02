@@ -27,4 +27,4 @@
 
 |🧞‍♂️박찬|🧜‍♂️문학준|🧚‍♀️이선영|🦋전승원|🌸천은정|
 |------|---|---|--|---|
-|[@cksl0830](https://github.com/cksl0830)|[@MHJworld](https://github.com/MHJworld)|[@sunsunyoung](https://github.com/sunsunyoung2jjang)|@승원|@은정|
+|[@cksl0830](https://github.com/cksl0830)|[@MHJworld](https://github.com/MHJworld)|[@sunsunyoung](https://github.com/sunsunyoung2jjang)|[@s2eung1](https://github.com/s2eung1)|[@ezzanzzan](https://github.com/ezzanzzan)|
