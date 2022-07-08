@@ -1,0 +1,7 @@
+flask
+tensorflow
+tensorflow-hub
+image
+numpy
+scikit-image
+Opencv-python
